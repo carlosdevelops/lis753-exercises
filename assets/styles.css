@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    font-family: avenir, roboto,sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+p{
+font-weight: bold;
+
+} 
+ul{
+    font-family: comic Verdana, Geneva, Tahoma, sans-serif;
+}
