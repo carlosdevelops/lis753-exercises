@@ -1,0 +1,76 @@
+
+#wrapper{
+    width: 815px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15pt;
+    height: auto;
+    font-family: sans-serif,Verdana, Geneva, Tahoma;
+}
+header{
+    padding-bottom: 0;
+    text-align: center;
+  
+}
+#info{
+background-color: orange;
+text-align: center;
+float: left;
+
+
+} 
+figcaption{
+    text-align: center;
+    
+}
+#picture{
+    float: right;
+    height: 330px;
+}
+.square{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+#address{
+    font-weight: bolder;
+    color: white;
+    font-size: 18pt;
+}
+#friday{
+    background-color: orange;
+    color: white;
+    float: right;
+    height: 250px;
+}
+#saturday{
+    background-color: red;
+    color: white;
+    float:right;
+}
+#sunday{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    float: left;
+    text-align: center;
+}
+
+#headings{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+h2{
+    margin-top: 0;
+}
+.square:hover {
+    transform: scale(1.06); 
+  }
+  #contact{
+      text-align: center;
+      font-size: 10pt;
+  }
+
